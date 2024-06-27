@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TAPANANSHUTRIPATHY
-- i AM AN ENGINEERING STUDENT
+- I AM AN ENGINEERING STUDENT
 
 <!---
 TAPANANSHUTRIPATHY/TAPANANSHUTRIPATHY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
