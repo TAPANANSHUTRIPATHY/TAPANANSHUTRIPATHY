@@ -29,8 +29,6 @@ const Tapananshu = {
 ## 📚 Widgets That Rule This Tech Space
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TapananshuTripathy&theme=radical&margin-w=10&margin-h=10&column=7" />
-  <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TapananshuTripathy&theme=react-dark&hide_border=true" />
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TapananshuTripathy&theme=github_dark" />
