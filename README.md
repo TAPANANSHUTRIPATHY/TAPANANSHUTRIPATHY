@@ -167,10 +167,10 @@ const Tapananshu = {
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 🔧 Tech Stack & Tools I have worked on
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,flask,fastapi,django,nodejs,expressjs,react,nextjs,tailwind,bootstrap,vscode,arduino,raspberrypi,firebase,git,github,githubactions,docker,kubernetes,nginx,terraform,aws,azure,googlecloud,figma,tensorflow,pytorch,scikitlearn,numpy,pandas,matplotlib,jupyter,opencv,postman,bash,linux,eclipse,sqlite,mysql,postgresql,mongodb,redis,androidstudio,flutter&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,flask,fastapi,django,nodejs,express,react,nextjs,tailwind,bootstrap,vscode,arduino,raspberrypi,firebase,git,github,githubactions,docker,kubernetes,nginx,terraform,aws,azure,gcp,figma,tensorflow,pytorch,sklearn,numpy,pandas,matplotlib,jupyter,opencv,postman,bash,linux,eclipse,sqlite,mysql,postgres,mongodb,redis,androidstudio,flutter&perline=10" />
 </div>
 
 <p align="center">
