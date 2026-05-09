@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6F61&center=true&vCenter=true&width=435&lines=Building+things+that+matter+🚀;Solving+real+world+problems+with+tech+🤖;Always+learning+%2B+shipping+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6F61&center=true&vCenter=true&width=435&lines=Building+things+that+matter+🚀;Solving+real+world+problems+🤖;Always+learning+%2B+shipping+🚀" alt="Typing SVG" />
 </p>
 
 ---
