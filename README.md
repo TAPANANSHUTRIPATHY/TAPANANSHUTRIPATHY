@@ -30,6 +30,66 @@ const Tapananshu = {
 
 ---
 
+## 🗺️ Table of Contents
+
+- [🧠 Who Am I?](#-who-am-i)
+- [🎯 Snapshot](#-snapshot)
+- [🧭 Focus Areas](#-focus-areas)
+- [🧩 Widgets That Rule This Tech Space](#-widgets-that-rule-this-tech-space)
+- [🧩 Ultra Widgets (Backup Render)](#-ultra-widgets-backup-render)
+- [⚡ Internships & Projects](#-internships--projects)
+- [🔧 Tech Stack & Tools](#-tech-stack--tools)
+- [🌍 Let’s Get Connected](#-lets-get-connected)
+- [✨ Fun Fact](#-fun-fact)
+- [🧳 Signature Energy](#-signature-energy)
+
+---
+
+## 🎯 Snapshot
+
+<table>
+  <tr>
+    <td>
+      <strong>Role Focus</strong><br>
+      AI/ML • IoT • Computer Vision • Automation
+    </td>
+    <td>
+      <strong>Strengths</strong><br>
+      Rapid prototyping • Clean UI workflows • Real-time systems
+    </td>
+    <td>
+      <strong>Style</strong><br>
+      Build fast, validate early, ship reliable
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%2FML-FF6F61?style=for-the-badge" alt="AI/ML Focus" />
+  <img src="https://img.shields.io/badge/Focus-IoT-FF6F61?style=for-the-badge" alt="IoT Focus" />
+  <img src="https://img.shields.io/badge/Focus-Computer%20Vision-FF6F61?style=for-the-badge" alt="Computer Vision Focus" />
+  <img src="https://img.shields.io/badge/Focus-Automation-FF6F61?style=for-the-badge" alt="Automation Focus" />
+</p>
+
+---
+
+## 🧭 Focus Areas
+
+- Real-time detection and surveillance pipelines (YOLOv8, MediaPipe)
+- IoT telemetry, sensor fusion, and dashboard control systems
+- Desktop-first AI tools with clean UX and reliable workflows
+- Applied research and prototype-to-deployment execution
+
+---
+
+## 🧱 Principles I Build By
+
+- Ship proof-of-value early, then harden for reliability
+- Design UI that makes advanced tools feel simple
+- Prefer measurable impact and real-world problem solving
+
+---
+
 ## 📚 Widgets That Rule This Tech Space
 
 <p align="center">
