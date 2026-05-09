@@ -32,16 +32,17 @@ const Tapananshu = {
 
 ## 🗺️ Table of Contents
 
-- [🧠 Who Am I?](#-who-am-i)
-- [🎯 Snapshot](#-snapshot)
-- [🧭 Focus Areas](#-focus-areas)
-- [🧩 Widgets That Rule This Tech Space](#-widgets-that-rule-this-tech-space)
-- [🧩 Ultra Widgets (Backup Render)](#-ultra-widgets-backup-render)
-- [⚡ Internships & Projects](#-internships--projects)
-- [🔧 Tech Stack & Tools](#-tech-stack--tools)
-- [🌍 Let’s Get Connected](#-lets-get-connected)
-- [✨ Fun Fact](#-fun-fact)
-- [🧳 Signature Energy](#-signature-energy)
+- [🧠 Who Am I?](#who-am-i)
+- [🎯 Snapshot](#snapshot)
+- [🧭 Focus Areas](#focus-areas)
+- [🧱 Principles I Build By](#principles-i-build-by)
+- [📚 Widgets That Rule This Tech Space](#widgets-that-rule-this-tech-space)
+- [🧩 Ultra Widgets (Backup Render)](#ultra-widgets-backup-render)
+- [⚡ Internships & Projects](#internships--projects)
+- [🔧 Tech Stack & Tools](#tech-stack--tools)
+- [🌍 Let’s Get Connected](#lets-get-connected)
+- [✨ Fun Fact](#fun-fact)
+- [🧳 Signature Energy](#signature-energy)
 
 ---
 
@@ -90,16 +91,58 @@ const Tapananshu = {
 
 ---
 
+## 🏆 Flagship Builds (Quick Showcase)
+
+<table>
+  <tr>
+    <td width="33%">
+      <strong>CrimeNetra</strong><br>
+      Desktop surveillance + real-time detection pipelines<br>
+      Python • Tkinter • OpenCV • YOLOv8 • MediaPipe
+    </td>
+    <td width="33%">
+      <strong>Elephant Detection System</strong><br>
+      Real-time monitoring to reduce human-wildlife conflict<br>
+      YOLOv8 • Computer Vision • Alerts
+    </td>
+    <td width="33%">
+      <strong>Face Recognition Attendance</strong><br>
+      Web dashboard + logging + real-time webcam workflow<br>
+      Flask • CV • Automation
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Build%20Mode-Prototyping%20to%20Production-FF6F61?style=for-the-badge" alt="Prototyping to Production" />
+  <img src="https://img.shields.io/badge/Favorite%20Domain-Real--Time%20Systems-FF6F61?style=for-the-badge" alt="Real-time systems" />
+</p>
+
+---
+
 ## 📚 Widgets That Rule This Tech Space
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TapananshuTripathy&theme=radical&row=1&column=7&no-frame=true&no-bg=false&title=white&text=white" alt="Tapananshu's Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TapananshuTripathy&theme=github_dark" alt="Tapananshu's Summary Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TapananshuTripathy&theme=github_dark" alt="Most Commit Language" />
-</p>
+<details>
+  <summary><strong>Open stats cards (may take a second to load)</strong></summary>
+  <br>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TapananshuTripathy&theme=github_dark" alt="Tapananshu's Summary Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TapananshuTripathy&theme=github_dark" alt="Most Commit Language" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=TapananshuTripathy&show_icons=true&theme=react&hide_border=true&title_color=FF6F61" alt="Tapananshu's GitHub Stats (alt)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TapananshuTripathy&layout=compact&theme=react&hide_border=true&title_color=FF6F61" alt="Tapananshu's Top Languages (alt)" />
+  </p>
+
+  <p>
+    <em>If these two cards show broken images sometimes, it's usually provider rate-limit/caching. That's why the summary-cards set exists above.</em>
+  </p>
+</details>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TapananshuTripathy&theme=react&hide_border=true&stroke=0000&background=161B22&ring=FF6F61&fire=FF6F61&currStreakNum=ffffff&currStreakLabel=FF6F61&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="Tapananshu's GitHub Streak" />
@@ -114,6 +157,12 @@ const Tapananshu = {
 ---
 
 ## 🧩 Ultra Widgets (Backup Render)
+
+These are extra analytics cards (some repeat the ones above on purpose as backups). Keeping them collapsed makes the README clean while still preserving everything.
+
+<details>
+  <summary><strong>Expand for more analytics</strong></summary>
+  <br>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TapananshuTripathy&theme=github_dark" alt="Tapananshu's Summary Stats" />
@@ -134,6 +183,8 @@ const Tapananshu = {
   <img src="https://img.shields.io/github/last-commit/TapananshuTripathy/TapananshuTripathy?style=for-the-badge&color=FF6F61" alt="Last Commit" />
   <img src="https://img.shields.io/badge/Profile-Active-FF6F61?style=for-the-badge" alt="Profile Active" />
 </p>
+
+</details>
 
 ---
 
