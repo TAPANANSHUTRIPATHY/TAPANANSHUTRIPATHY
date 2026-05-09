@@ -127,7 +127,7 @@ const Tapananshu = {
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/FF6F61/TapananshuTripathy" alt="Tapananshu's Contribution Calendar" />
+  <img src="https://raw.githubusercontent.com/TapananshuTripathy/TapananshuTripathy/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 <p align="center">
