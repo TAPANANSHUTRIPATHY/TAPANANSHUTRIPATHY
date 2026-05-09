@@ -37,8 +37,8 @@ const Tapananshu = {
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TapananshuTripathy&show_icons=true&theme=react&hide_border=true&title_color=FF6F61" alt="Tapananshu's GitHub Stats" width="48%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TapananshuTripathy&layout=compact&theme=react&hide_border=true&title_color=FF6F61" alt="Tapananshu's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TapananshuTripathy&show_icons=true&theme=react&hide_border=true&title_color=FF6F61" alt="Tapananshu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TapananshuTripathy&layout=compact&theme=react&hide_border=true&title_color=FF6F61" alt="Tapananshu's Top Languages" />
 </p>
 
 <p align="center">
