@@ -1,6 +1,10 @@
 <h1 align="center">✨ Hey, I’m <span style="color:#FF6F61">Tapananshu Tripathy</span> 👋</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TapananshuTripathy&label=Profile%20Views&color=FF6F61&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
   💻 B.Tech CSE (Data Science) @ Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar '28 <br> 🤖 AI/ML/IoT Summer Intern @ eWarn Systems Pvt. Ltd., NIT Rourkela <br> 🚀 Summer Research Intern @ National Institute of Technology Rourkela (NIT Rourkela) 
 </p>
 
@@ -27,6 +31,19 @@ const Tapananshu = {
 ---
 
 ## 📚 Widgets That Rule This Tech Space
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TapananshuTripathy&theme=radical&row=1&column=7&no-frame=true&no-bg=false&title=white&text=white" alt="Tapananshu's Trophies" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TapananshuTripathy&show_icons=true&theme=react&hide_border=true&title_color=FF6F61" alt="Tapananshu's GitHub Stats" width="48%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TapananshuTripathy&layout=compact&theme=react&hide_border=true&title_color=FF6F61" alt="Tapananshu's Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TapananshuTripathy&theme=react&hide_border=true&stroke=0000&background=161B22&ring=FF6F61&fire=FF6F61&currStreakNum=ffffff&currStreakLabel=FF6F61&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="Tapananshu's GitHub Streak" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TapananshuTripathy&theme=react-dark&hide_border=true" />
@@ -98,6 +115,10 @@ const Tapananshu = {
 ---
 
 ## ✨ Fun Fact
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Programming Quote" />
+</p>
 
 > 💥 I debugged my first JS loop while sipping Rasna and haven’t stopped since.
 
