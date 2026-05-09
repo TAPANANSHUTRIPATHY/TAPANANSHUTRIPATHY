@@ -170,7 +170,7 @@ const Tapananshu = {
 ## 🔧 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,flask,vscode,arduino,firebase,git,github,figma,tensorflow,opencv,bash,docker,eclipse,linux,raspberrypi,postman,sqlite&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,flask,fastapi,django,nodejs,express,react,nextjs,tailwind,bootstrap,vscode,arduino,raspberrypi,firebase,git,github,githubactions,docker,kubernetes,nginx,terraform,aws,azure,gcp,figma,tensorflow,pytorch,sklearn,numpy,pandas,matplotlib,jupyter,opencv,postman,bash,linux,eclipse,sqlite,mysql,postgres,mongodb,redis,androidstudio,flutter&perline=8" />
 </div>
 
 **Currently exploring:** YOLOv8, Streamlit, Twilio, Flask APIs, CATIA, LoRa, OpenCV ML, Real-Time Dashboards
