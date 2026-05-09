@@ -110,23 +110,19 @@ const Tapananshu = {
   <img src="https://github-profile-trophy.vercel.app/?username=TapananshuTripathy&theme=radical&row=1&column=7&no-frame=true&no-bg=false&title=white&text=white" alt="Tapananshu's Trophies" />
 </p>
 
-<details>
-  <summary><strong>Open stats cards (may take a second to load)</strong></summary>
-  <br>
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TapananshuTripathy&theme=github_dark" alt="Tapananshu's Summary Stats" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TapananshuTripathy&theme=github_dark" alt="Most Commit Language" />
-  </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TapananshuTripathy&theme=github_dark" alt="Tapananshu's Summary Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TapananshuTripathy&theme=github_dark" alt="Most Commit Language" />
+</p>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TapananshuTripathy&show_icons=true&theme=react&hide_border=true&title_color=FF6F61" alt="Tapananshu's GitHub Stats (alt)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TapananshuTripathy&layout=compact&theme=react&hide_border=true&title_color=FF6F61" alt="Tapananshu's Top Languages (alt)" />
-  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TapananshuTripathy&show_icons=true&theme=react&hide_border=true&title_color=FF6F61" alt="Tapananshu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TapananshuTripathy&layout=compact&theme=react&hide_border=true&title_color=FF6F61" alt="Tapananshu's Top Languages" />
+</p>
 
-  <p>
-    <em>Note: the github-readme-stats service can occasionally return HTTP 503. If these images fail to load, the summary-cards widgets above are the reliable alternative.</em>
-  </p>
-</details>
+<p align="center">
+  <em>Note: github-readme-stats can sometimes return HTTP 503 (provider load). If a card fails to load, refresh later—your summary-cards widgets above remain reliable.</em>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TapananshuTripathy&theme=react&hide_border=true&stroke=0000&background=161B22&ring=FF6F61&fire=FF6F61&currStreakNum=ffffff&currStreakLabel=FF6F61&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="Tapananshu's GitHub Streak" />
@@ -137,16 +133,6 @@ const Tapananshu = {
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TapananshuTripathy&theme=github_dark" />
 </p>
-
----
-
-## 🧩 Ultra Widgets (Backup Render)
-
-These are extra analytics cards (some repeat the ones above on purpose as backups). Keeping them collapsed makes the README clean while still preserving everything.
-
-<details>
-  <summary><strong>Expand for more analytics</strong></summary>
-  <br>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TapananshuTripathy&theme=github_dark" alt="Tapananshu's Summary Stats" />
@@ -167,8 +153,6 @@ These are extra analytics cards (some repeat the ones above on purpose as backup
   <img src="https://img.shields.io/github/last-commit/TapananshuTripathy/TapananshuTripathy?style=for-the-badge&color=FF6F61" alt="Last Commit" />
   <img src="https://img.shields.io/badge/Profile-Active-FF6F61?style=for-the-badge" alt="Profile Active" />
 </p>
-
-</details>
 
 ---
 
