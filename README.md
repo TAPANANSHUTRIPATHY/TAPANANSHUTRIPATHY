@@ -53,6 +53,35 @@ const Tapananshu = {
 
 ---
 
+## 🧩 Ultra Widgets (Backup Render)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TapananshuTripathy&show_icons=true&theme=react&hide_border=true&title_color=FF6F61&cache_seconds=86400&v=2" alt="Tapananshu's GitHub Stats (Backup)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TapananshuTripathy&layout=compact&theme=react&hide_border=true&title_color=FF6F61&cache_seconds=86400&v=2" alt="Tapananshu's Top Languages (Backup)" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TapananshuTripathy&theme=github_dark" alt="Tapananshu's Summary Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TapananshuTripathy&theme=github_dark&utcOffset=5.5" alt="Tapananshu's Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TapananshuTripathy&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TapananshuTripathy&theme=github_dark" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/FF6F61/TapananshuTripathy" alt="Tapananshu's Contribution Calendar" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/TapananshuTripathy?label=Followers&style=for-the-badge&color=FF6F61" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/last-commit/TapananshuTripathy/TapananshuTripathy?style=for-the-badge&color=FF6F61" alt="Last Commit" />
+  <img src="https://img.shields.io/badge/Profile-Active-FF6F61?style=for-the-badge" alt="Profile Active" />
+</p>
+
+---
+
 ## ⚡ Internships & Projects
 
 ### 🚀 Summer Research Intern @ National Institute of Technology Rourkela (May 2025 - July 2025)
