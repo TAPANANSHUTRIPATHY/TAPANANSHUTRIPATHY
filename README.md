@@ -37,8 +37,8 @@ const Tapananshu = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TapananshuTripathy&show_icons=true&theme=react&hide_border=true&title_color=FF6F61" alt="Tapananshu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TapananshuTripathy&layout=compact&theme=react&hide_border=true&title_color=FF6F61" alt="Tapananshu's Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TapananshuTripathy&theme=github_dark" alt="Tapananshu's Summary Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TapananshuTripathy&theme=github_dark" alt="Most Commit Language" />
 </p>
 
 <p align="center">
@@ -54,11 +54,6 @@ const Tapananshu = {
 ---
 
 ## 🧩 Ultra Widgets (Backup Render)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TapananshuTripathy&show_icons=true&theme=react&hide_border=true&title_color=FF6F61&cache_seconds=86400&v=2" alt="Tapananshu's GitHub Stats (Backup)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TapananshuTripathy&layout=compact&theme=react&hide_border=true&title_color=FF6F61&cache_seconds=86400&v=2" alt="Tapananshu's Top Languages (Backup)" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TapananshuTripathy&theme=github_dark" alt="Tapananshu's Summary Stats" />
