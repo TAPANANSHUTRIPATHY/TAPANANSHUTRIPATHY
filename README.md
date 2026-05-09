@@ -30,22 +30,6 @@ const Tapananshu = {
 
 ---
 
-## 🗺️ Table of Contents
-
-- [🧠 Who Am I?](#who-am-i)
-- [🎯 Snapshot](#snapshot)
-- [🧭 Focus Areas](#focus-areas)
-- [🧱 Principles I Build By](#principles-i-build-by)
-- [📚 Widgets That Rule This Tech Space](#widgets-that-rule-this-tech-space)
-- [🧩 Ultra Widgets (Backup Render)](#ultra-widgets-backup-render)
-- [⚡ Internships & Projects](#internships--projects)
-- [🔧 Tech Stack & Tools](#tech-stack--tools)
-- [🌍 Let’s Get Connected](#lets-get-connected)
-- [✨ Fun Fact](#fun-fact)
-- [🧳 Signature Energy](#signature-energy)
-
----
-
 ## 🎯 Snapshot
 
 <table>
@@ -140,7 +124,7 @@ const Tapananshu = {
   </p>
 
   <p>
-    <em>If these two cards show broken images sometimes, it's usually provider rate-limit/caching. That's why the summary-cards set exists above.</em>
+    <em>Note: the github-readme-stats service can occasionally return HTTP 503. If these images fail to load, the summary-cards widgets above are the reliable alternative.</em>
   </p>
 </details>
 
@@ -269,8 +253,14 @@ These are extra analytics cards (some repeat the ones above on purpose as backup
 
 ---
 
-⭐ *Drop a ⭐ on my projects if they made you go “yo this guy’s cookin fr”*  
-🎯 *Let’s collab, code, and caffeinate our way to greatness!*
+If you’d like to collaborate on AI/ML, computer vision, or IoT systems, feel free to reach out—always happy to build meaningful things with motivated people.
+
+<details>
+  <summary><strong>Personal note</strong></summary>
+  <br>
+  ⭐ *Drop a ⭐ on my projects if they made you go “yo this guy’s cookin fr”*  
+  🎯 *Let’s collab, code, and caffeinate our way to greatness!*
+</details>
 
 
 <!---
