@@ -170,8 +170,24 @@ const Tapananshu = {
 ## 🔧 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,flask,fastapi,django,nodejs,express,react,nextjs,tailwind,bootstrap,vscode,arduino,raspberrypi,firebase,git,github,githubactions,docker,kubernetes,nginx,terraform,aws,azure,gcp,figma,tensorflow,pytorch,sklearn,numpy,pandas,matplotlib,jupyter,opencv,postman,bash,linux,eclipse,sqlite,mysql,postgres,mongodb,redis,androidstudio,flutter&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,flask,fastapi,django,nodejs,expressjs,react,nextjs,tailwind,bootstrap,vscode,arduino,raspberrypi,firebase,git,github,githubactions,docker,kubernetes,nginx,terraform,aws,azure,googlecloud,figma,tensorflow,pytorch,scikitlearn,numpy,pandas,matplotlib,jupyter,opencv,postman,bash,linux,eclipse,sqlite,mysql,postgresql,mongodb,redis,androidstudio,flutter&perline=10" />
 </div>
+
+<p align="center">
+  <sub>
+    <strong>Languages:</strong> Python • Java • JavaScript • C • HTML • CSS
+    <br>
+    <strong>Frameworks:</strong> Flask • FastAPI • Django • Express • React • Next.js • Tailwind • Bootstrap
+    <br>
+    <strong>AI/Data:</strong> TensorFlow • PyTorch • scikit-learn • NumPy • Pandas • Matplotlib • Jupyter • OpenCV
+    <br>
+    <strong>DevOps/Cloud:</strong> GitHub Actions • Docker • Kubernetes • Nginx • Terraform • AWS • Azure • Google Cloud
+    <br>
+    <strong>DB:</strong> SQLite • MySQL • PostgreSQL • MongoDB • Redis
+    <br>
+    <strong>Tools/Platforms:</strong> VS Code • Eclipse • Postman • Linux • Bash • Arduino • Raspberry Pi • Firebase • Git/GitHub • Figma • Android Studio • Flutter
+  </sub>
+</p>
 
 **Currently exploring:** YOLOv8, Streamlit, Twilio, Flask APIs, CATIA, LoRa, OpenCV ML, Real-Time Dashboards
 
