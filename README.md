@@ -1,7 +1,7 @@
 # Tapananshu Tripathy
 
 <p align="center">
-  <img src="assets/field-notes.svg" alt="Engineering field notes: Tapananshu Tripathy builds computer vision, connected hardware, and autonomous systems that see, sense, and respond." width="100%" />
+  <img src="assets/readme-motion.gif" alt="Animated engineering schematic: Tapananshu Tripathy builds computer vision, connected hardware, and autonomous systems that see, sense, and respond." width="100%" />
 </p>
 
 <p align="center">
@@ -22,39 +22,38 @@ I build systems that turn **images and sensor readings into useful action**: vid
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>01 — CrimeNetra</strong><br />
-      Real-time desktop video surveillance for webcam, video, and RTSP/IP camera streams. ASTNet video-anomaly analysis, YOLOv8 detection, and MediaPipe pose estimation feed adaptive thresholds, live alerts, and evidence logging in a Tkinter interface.<br /><br />
-      <strong>~90% accuracy</strong> across <strong>7+ categories</strong><br />
-      <code>Python</code> <code>OpenCV</code> <code>ASTNet</code> <code>YOLOv8</code> <code>MediaPipe</code> <code>Tkinter</code>
+      <img src="assets/cards/crimenetra.gif" alt="Animated CrimeNetra card: a person is scanned inside a computer-vision detection frame; about 90% accuracy across 7+ categories." width="100%" />
+      <p>Real-time desktop surveillance for webcam, video, and RTSP/IP streams. ASTNet anomaly analysis, YOLOv8 detection, and MediaPipe pose estimation drive adaptive thresholds, live alerts, and evidence logging in a Tkinter interface.</p>
+      <p><code>Python</code> <code>OpenCV</code> <code>ASTNet</code> <code>YOLOv8</code> <code>MediaPipe</code> <code>Tkinter</code></p>
     </td>
     <td width="50%" valign="top">
-      <strong>02 — Elephant detection</strong><br />
-      An IP-camera wildlife monitor built to support early warnings for human–elephant conflict, processing live video at <strong>25+ FPS</strong>.<br /><br />
-      <code>YOLOv8</code> <code>IP cameras</code> <code>Real-time video</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>03 — Smart traffic management</strong><br />
-      Supported deployment of lane-wise vehicle detection across <strong>4+ lanes</strong>, enabling real-time traffic-flow analysis and adaptive signal control.<br /><br />
-      <code>Vehicle detection</code> <code>Traffic analysis</code> <code>Adaptive signals</code>
-    </td>
-    <td width="50%" valign="top">
-      <strong>04 — Connected sensing systems</strong><br />
-      Built three end-to-end IoT systems on ESP32 and Arduino boards for environmental, safety, and energy monitoring. The work combined a nine-sensor suite, OLED readouts, browser controls, appliance relays, and four communication modes. The smart-home build used Arduino Cloud for fan and light control; the energy build added sensor-triggered control of 4+ appliances, live diagnostics, and bill estimation.<br /><br />
-      <code>ESP32</code> <code>Arduino</code> <code>OLED</code> <code>Wi-Fi</code> <code>Bluetooth</code> <code>LoRa</code> <code>FSO</code>
+      <img src="assets/cards/elephant-monitor.gif" alt="Animated wildlife-monitor card: an elephant is tracked in an IP-camera frame at 25+ frames per second." width="100%" />
+      <p>An IP-camera wildlife monitor built to support early warnings for human–elephant conflict, processing live video at 25+ FPS.</p>
+      <p><code>YOLOv8</code> <code>IP cameras</code> <code>Real-time video</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>05 — Face-recognition attendance</strong><br />
-      A Flask and OpenCV webcam system with an admin dashboard, automating attendance logging and reducing manual entries to zero.<br /><br />
-      <code>Flask</code> <code>OpenCV</code> <code>Machine learning</code> <code>Web dashboard</code>
+      <img src="assets/cards/smart-traffic.gif" alt="Animated traffic card: vehicles move through four detected lanes while a traffic signal cycles." width="100%" />
+      <p>Supported deployment of lane-wise vehicle detection across 4+ lanes, enabling real-time traffic-flow analysis and adaptive signal control.</p>
+      <p><code>Vehicle detection</code> <code>Traffic analysis</code> <code>Adaptive signals</code></p>
     </td>
     <td width="50%" valign="top">
-      <strong>06 — UAV build and flight test</strong><br />
-      Assembled and tested drones across Pixhawk, KK2, and APM flight controllers; configured GPS, telemetry, ESCs, and flight sensors, then designed 3D parts and explored autonomous, vision-enabled flight.<br /><br />
-      <code>Pixhawk</code> <code>KK2</code> <code>APM</code> <code>Mission Planner</code> <code>CATIA</code>
+      <img src="assets/cards/connected-systems.gif" alt="Animated connected-systems card: pulses travel from sensors to an ESP32 board, representing three IoT systems and four communication modes." width="100%" />
+      <p>Built three ESP32 and Arduino IoT systems for environmental, safety, and energy monitoring. They combine a nine-sensor suite, OLED readouts, browser controls, relays, and four communication modes. The smart-home build used Arduino Cloud for fan and light control; the energy build added sensor-triggered control of 4+ appliances, live diagnostics, and bill estimation.</p>
+      <p><code>ESP32</code> <code>Arduino</code> <code>OLED</code> <code>Wi-Fi</code> <code>Bluetooth</code> <code>LoRa</code> <code>FSO</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/cards/face-attendance.gif" alt="Animated face-attendance card: a face is scanned and matched for automatic attendance logging." width="100%" />
+      <p>A Flask and OpenCV webcam system with an admin dashboard, automating attendance logging and reducing manual entries to zero.</p>
+      <p><code>Flask</code> <code>OpenCV</code> <code>Machine learning</code> <code>Web dashboard</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/cards/uav-build.gif" alt="Animated UAV card: a quadcopter schematic pulses with GPS and telemetry signals; three flight controllers and four test parameters." width="100%" />
+      <p>Assembled and tested drones across Pixhawk, KK2, and APM flight controllers; configured GPS, telemetry, ESCs, and flight sensors, then designed 3D parts and explored autonomous, vision-enabled flight.</p>
+      <p><code>Pixhawk</code> <code>KK2</code> <code>APM</code> <code>Mission Planner</code> <code>CATIA</code></p>
     </td>
   </tr>
 </table>
