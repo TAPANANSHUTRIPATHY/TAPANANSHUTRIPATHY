@@ -58,7 +58,49 @@ I build systems that turn **images and sensor readings into useful action**: vid
   </tr>
 </table>
 
-## 03 / Technology atlas
+## 03 / GitHub telemetry
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/TAPANANSHUTRIPATHY">
+        <img src="https://github-readme-stats.vercel.app/api?username=TAPANANSHUTRIPATHY&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;hide_border=true&amp;bg_color=FFFEF8&amp;title_color=182B2D&amp;text_color=5E6B65&amp;icon_color=B84E31" alt="GitHub overview: public contributions, stars, pull requests, and rank for TAPANANSHUTRIPATHY." width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/TAPANANSHUTRIPATHY">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAPANANSHUTRIPATHY&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=FFFEF8&amp;title_color=182B2D&amp;text_color=5E6B65" alt="Most used programming languages across public GitHub repositories for TAPANANSHUTRIPATHY." width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=TAPANANSHUTRIPATHY&amp;hide_border=true&amp;background=FFFEF8&amp;stroke=DEDACF&amp;ring=B84E31&amp;fire=B84E31&amp;currStreakNum=182B2D&amp;sideNums=182B2D&amp;currStreakLabel=182B2D&amp;sideLabels=5E6B65&amp;dates=5E6B65&amp;timezone=Asia%2FKolkata" alt="GitHub contribution totals, current streak, and longest streak for TAPANANSHUTRIPATHY." width="72%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=TAPANANSHUTRIPATHY&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=6" alt="GitHub profile trophies for TAPANANSHUTRIPATHY." width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TAPANANSHUTRIPATHY&amp;bg_color=FFFEF8&amp;color=182B2D&amp;line=B84E31&amp;point=287C71&amp;area=true&amp;hide_border=true&amp;radius=10&amp;custom_title=Recent%20GitHub%20activity" alt="Recent GitHub activity graph for TAPANANSHUTRIPATHY." width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TAPANANSHUTRIPATHY/TAPANANSHUTRIPATHY/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/TAPANANSHUTRIPATHY/TAPANANSHUTRIPATHY/output/github-contribution-grid-snake.svg" alt="Animated contribution snake traversing the GitHub contribution grid." width="100%" />
+  </picture>
+</p>
+
+## 04 / Technology atlas
 
 A catalog of tools and systems named in my profile, grouped by the work they supported.
 
@@ -75,7 +117,7 @@ A catalog of tools and systems named in my profile, grouped by the work they sup
 
 **Specialist sessions:** PCB design with TINA Suites (Scientech Technologies) · AI/ML applications with Shuchismita Sahu (Inflera.ai).
 
-## 04 / Field experience
+## 05 / Field experience
 
 | When | Work |
 |:--|:--|
@@ -99,7 +141,7 @@ A catalog of tools and systems named in my profile, grouped by the work they sup
 - Designed drone components in CATIA and prototyped with ANYCUBIC 3D printing.
 </details>
 
-## 05 / Education & credentials
+## 06 / Education & credentials
 
 **B.Tech, Computer Science Engineering (Data Science)** — Kalinga Institute of Industrial Technology (KIIT), 2024–2028.
 
@@ -107,7 +149,7 @@ A catalog of tools and systems named in my profile, grouped by the work they sup
 
 **Languages:** Odia and Hindi — full professional proficiency · English — professional working proficiency.
 
-## 06 / Contact
+## 07 / Contact
 
 For computer vision, AI/ML, connected devices, embedded systems, and applied engineering collaborations:
 
