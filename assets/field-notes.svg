@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Tapananshu Tripathy — Engineering Field Notes</title>
+  <desc id="desc">A field-journal cover about building computer vision, connected hardware, and autonomous systems that see, sense, and respond.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#d9d4c8" stroke-width="1" opacity=".42"/>
+      <circle cx="0" cy="0" r="1.4" fill="#a7a193" opacity=".65"/>
+    </pattern>
+    <pattern id="fine" width="6" height="6" patternUnits="userSpaceOnUse">
+      <path d="M0 6L6 0" stroke="#ffffff" stroke-width=".6" opacity=".08"/>
+    </pattern>
+    <linearGradient id="ink" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#182a30"/>
+      <stop offset="1" stop-color="#243b3b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="8" fill="#f1eee5"/>
+  <rect width="1200" height="360" rx="8" fill="url(#grid)"/>
+  <rect x="16" y="16" width="1168" height="328" rx="4" fill="none" stroke="#242b2b" stroke-width="1.5"/>
+  <g font-family="Consolas, 'Courier New', monospace" fill="#394443">
+    <text x="46" y="53" font-size="12" letter-spacing="2.7">ENGINEERING FIELD NOTES</text>
+    <text x="1150" y="53" text-anchor="end" font-size="11" letter-spacing="1.8">PROFILE / 001</text>
+    <path d="M46 68H1154" stroke="#85877b" stroke-width="1"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#142326">
+    <text x="46" y="132" font-size="52" font-weight="700" letter-spacing="-1.2">Tapananshu Tripathy</text>
+    <text x="48" y="166" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="700" letter-spacing="2.1" fill="#a54a2f">SEE. SENSE. RESPOND.</text>
+    <text x="48" y="198" font-size="15" fill="#364446">Computer vision · connected hardware · autonomous systems</text>
+  </g>
+  <g transform="translate(48 226)" font-family="Consolas, 'Courier New', monospace">
+    <rect width="244" height="54" rx="3" fill="#fffdf6" stroke="#b8b4a7"/>
+    <circle cx="24" cy="27" r="10" fill="none" stroke="#a54a2f" stroke-width="2"/>
+    <circle cx="24" cy="27" r="3" fill="#a54a2f"/>
+    <text x="46" y="24" font-size="10" letter-spacing="1.2" fill="#77776d">01 / PERCEPTION</text>
+    <text x="46" y="41" font-size="12" font-weight="700" fill="#202e30">Video → context</text>
+    <path d="M244 27H258" stroke="#a54a2f" stroke-width="2"/>
+    <path d="M253 22L258 27L253 32" fill="none" stroke="#a54a2f" stroke-width="2"/>
+    <rect x="258" width="244" height="54" rx="3" fill="#fffdf6" stroke="#b8b4a7"/>
+    <rect x="276" y="18" width="18" height="18" rx="2" fill="none" stroke="#287a72" stroke-width="2"/>
+    <path d="M281 27H289M285 23V31" stroke="#287a72" stroke-width="2"/>
+    <text x="306" y="24" font-size="10" letter-spacing="1.2" fill="#77776d">02 / EDGE</text>
+    <text x="306" y="41" font-size="12" font-weight="700" fill="#202e30">Sensors → signal</text>
+    <path d="M502 27H516" stroke="#287a72" stroke-width="2"/>
+    <path d="M511 22L516 27L511 32" fill="none" stroke="#287a72" stroke-width="2"/>
+    <rect x="516" width="244" height="54" rx="3" fill="#fffdf6" stroke="#b8b4a7"/>
+    <path d="M535 34L544 18L553 34ZM544 18V39" fill="none" stroke="#536d3d" stroke-width="2"/>
+    <text x="565" y="24" font-size="10" letter-spacing="1.2" fill="#77776d">03 / RESPONSE</text>
+    <text x="565" y="41" font-size="12" font-weight="700" fill="#202e30">Decision → action</text>
+  </g>
+  <g transform="translate(848 92)">
+    <rect width="306" height="190" rx="4" fill="url(#ink)"/>
+    <rect width="306" height="190" rx="4" fill="url(#fine)"/>
+    <g font-family="Consolas, 'Courier New', monospace" fill="#e9e7dc">
+      <text x="18" y="25" font-size="10" letter-spacing="1.7" opacity=".72">WORKING RANGE / SELECTED SIGNALS</text>
+      <path d="M18 37H288" stroke="#9ba69d" stroke-width=".8" opacity=".5"/>
+      <text x="18" y="66" font-size="11">CRIMENETRA</text>
+      <text x="288" y="66" text-anchor="end" font-size="19" font-weight="700" fill="#f4a16f">~90%</text>
+      <text x="18" y="83" font-size="9" opacity=".7">DETECTION ACCURACY / 7+ CATEGORIES</text>
+      <text x="18" y="111" font-size="11">ELEPHANT MONITOR</text>
+      <text x="288" y="111" text-anchor="end" font-size="19" font-weight="700" fill="#a8d69b">25+ FPS</text>
+      <text x="18" y="128" font-size="9" opacity=".7">LIVE VIDEO PROCESSING</text>
+      <text x="18" y="156" font-size="11">CONNECTED BUILDS</text>
+      <text x="288" y="156" text-anchor="end" font-size="19" font-weight="700" fill="#8fd8d0">3 / 4</text>
+      <text x="18" y="173" font-size="9" opacity=".7">IOT SYSTEMS / COMMUNICATION MODES</text>
+    </g>
+  </g>
+  <g font-family="Consolas, 'Courier New', monospace" fill="#62665d">
+    <text x="48" y="319" font-size="10" letter-spacing="1.5">KIIT UNIVERSITY / DATA SCIENCE / 2024–2028</text>
+    <text x="1152" y="319" text-anchor="end" font-size="10" letter-spacing="1.5">BHUBANESWAR, INDIA</text>
+  </g>
+</svg>
